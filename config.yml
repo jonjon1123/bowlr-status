@@ -119,6 +119,8 @@ enableGitInfo: true
 ############################################################
 
 params:
+  enableCustomHTML: true
+
   # Before setting up your systems, you need
   # to first define at least one category.
   #
@@ -322,7 +324,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#757575"
+  brand: "#666666"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
