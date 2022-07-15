@@ -1,14 +1,12 @@
 ---
-title: US East Connection Issues
-date: 2018-04-25 04:13:00
+title: Error When Entering In Frame-By-Frame Scores
+date: 2018-10-13 17:30:00
 resolved: true
-resolvedWhen: 2018-04-25 04:13:59
+resolvedWhen: 2018-10-15 14:09:00
 # Possible severity levels: down, disrupted, notice
-severity: down
+severity: disrupted
 affected:
-  - API
-  - Media Proxy
-  - Gateway
+  - iOS App
 section: issue
 ---
 
