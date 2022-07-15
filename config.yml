@@ -322,7 +322,7 @@ params:
   # disrupted: "#cc4400"
   # down: "#e60000"
   # notice: "#24478f"
-  brand: "#0a0c0f"
+  brand: "#757575"
   ok: "#008000"
   disrupted: "#cc4400"
   down: "#e60000"
