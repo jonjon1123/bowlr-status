@@ -4,7 +4,7 @@ date: 2018-10-13 17:30:00
 resolved: true
 resolvedWhen: 2018-10-15 14:09:00
 # Possible severity levels: down, disrupted, notice
-severity: disrupted
+severity: notice
 affected:
   - iOS App
   - Android App
