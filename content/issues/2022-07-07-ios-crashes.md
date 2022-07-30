@@ -1,8 +1,8 @@
 ---
 title: iOS App (6.7.3) Crashes
 date: 2022-07-07 11:32:00
-resolved: false
-#resolvedWhen: 2018-10-15 14:09:00
+resolved: true
+resolvedWhen: 2022-07-20 21:49:00
 # Possible severity levels: down, disrupted, notice
 severity: disrupted
 affected:
